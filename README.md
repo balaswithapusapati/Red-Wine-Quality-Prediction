@@ -10,7 +10,7 @@ By the end of this project, we expect the models to classify wine quality with r
 
 ## Dataset Overview
 
-The dataset used in this project is the [Red Wine Quality Dataset](https://archive.ics.uci.edu/ml/datasets/wine+quality) from the UCI Machine Learning Repository. It contains various attributes of red wine samples along with their quality ratings, which are classified into three categories:
+You can find the dataset used in this project above ( winequality-red.csv ) . It contains various attributes of red wine samples along with their quality ratings, which are classified into three categories:
 - Low Quality (1)
 - Medium Quality (2)
 - High Quality (3)
